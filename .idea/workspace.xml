@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2c3b2f56-72d2-4f79-a69e-e8f7249b949f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/roblox oa/Slowest_Key_Press.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/K_diff_Pairs_in_an_Array_532_need_review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roblox oa" beforeDir="false" afterPath="$PROJECT_DIR$/roblox oa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two pointers/Longest_Word_in_Dictionary_through_Deleting_524_need_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/two pointers/Longest_Word_in_Dictionary_through_Deleting_524_need_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two pointers/K_diff_Pairs_in_an_Array_532_need_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/two pointers/K_diff_Pairs_in_an_Array_532_need_review.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/two pointers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -54,20 +52,20 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/String" />
+      <recent name="$PROJECT_DIR$/greedy" />
+      <recent name="$PROJECT_DIR$/node" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/two pointers" />
       <recent name="$PROJECT_DIR$/slide window" />
       <recent name="$PROJECT_DIR$/greedy" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/divide and conquer(binary search)" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/String" />
-      <recent name="$PROJECT_DIR$/greedy" />
-      <recent name="$PROJECT_DIR$/node" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -213,7 +211,7 @@
       <workItem from="1610846117708" duration="4508000" />
       <workItem from="1610927078072" duration="830000" />
       <workItem from="1610951345745" duration="9751000" />
-      <workItem from="1611226742692" duration="3249000" />
+      <workItem from="1611226742692" duration="3465000" />
     </task>
     <servers />
   </component>

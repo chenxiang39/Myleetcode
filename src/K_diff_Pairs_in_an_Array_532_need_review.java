@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class K_diff_Pairs_in_an_Array_532_need_review {
     //two pointers
+    //leetcode solution 2
     //时间复杂度：O(N * logN),排序， N = nums.length
     //空间复杂度：O(N),排序
     public int findPairs(int[] nums, int k) {
