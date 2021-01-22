@@ -10,7 +10,7 @@ public class Longest_Word_in_Dictionary_through_Deleting_524_need_review {
         String result = "";
         for(String str : d){
             if(detect(s,str)){
-                //每次记录长度长的或者按字母排序
+                //每次记录长度长的或者按字母序
                 if(str.length() > result.length() || str.length() == result.length() && str.compareTo(result) < 0){
                     result = str;
                 }
