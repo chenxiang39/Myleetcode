@@ -2,9 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c3b2f56-72d2-4f79-a69e-e8f7249b949f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/greedy/Non_overlapping_Intervals_435_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Queue_Reconstruction_by_Height_406_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Remove_Duplicate_Letters_316_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Remove_K_Digits_402_need_review.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/roblox oa/Slowest_Key_Press.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slide window/Binary_Subarrays_With_Sum_930_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slide window/Subarray_Product_Less_Than_K_713_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backspace_String_Compare_844_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_Subarrays_With_Sum_930_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interval_List_Intersections_986_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Long_Pressed_Name_925_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Longest_Mountain_in_Array_845_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Non_overlapping_Intervals_435_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number_of_Provinces_547_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue_Reconstruction_by_Height_406_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remove_Duplicate_Letters_316_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remove_K_Digits_402_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Squares_of_a_Sorted_Array_977_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Subarray_Product_Less_Than_K_713_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Three_Sum_With_Multiplicity_923_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two pointers/Backspace_String_Compare_844_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two pointers/Binary_Subarrays_With_Sum_930_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two pointers/Interval_List_Intersections_986_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two pointers/Long_Pressed_Name_925_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two pointers/Longest_Mountain_in_Array_845_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two pointers/Squares_of_a_Sorted_Array_977_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two pointers/Subarray_Product_Less_Than_K_713_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two pointers/Three_Sum_With_Multiplicity_923_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/union find/Number_of_Provinces_547_need_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/K_diff_Pairs_in_an_Array_532_need_review.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/K_diff_Pairs_in_an_Array_532_need_review.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roblox oa" beforeDir="false" afterPath="$PROJECT_DIR$/roblox oa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two pointers/K_diff_Pairs_in_an_Array_532_need_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/two pointers/K_diff_Pairs_in_an_Array_532_need_review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/刷题总结.docx" beforeDir="false" afterPath="$PROJECT_DIR$/刷题总结.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +74,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/greedy" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -61,11 +91,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/two pointers" />
-      <recent name="$PROJECT_DIR$/slide window" />
       <recent name="$PROJECT_DIR$/greedy" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/divide and conquer(binary search)" />
+      <recent name="$PROJECT_DIR$/two pointers" />
+      <recent name="$PROJECT_DIR$/slide window" />
+      <recent name="$PROJECT_DIR$/union find" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -80,7 +110,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Shortest_Word_Distance_II_244_need_review">
+  <component name="RunManager" selected="Application.Backspace_String_Compare_844_need_review">
+    <configuration name="Backspace_String_Compare_844_need_review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backspace_String_Compare_844_need_review" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Create_Maximum_Number_321_need_understand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Create_Maximum_Number_321_need_understand" />
       <module name="Leetcode" />
@@ -137,14 +174,15 @@
       <item itemvalue="Application.d" />
       <item itemvalue="Application.Create_Maximum_Number_321_need_understand" />
       <item itemvalue="Application.Shortest_Word_Distance_II_244_need_review" />
+      <item itemvalue="Application.Backspace_String_Compare_844_need_review" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Backspace_String_Compare_844_need_review" />
         <item itemvalue="Application.Shortest_Word_Distance_II_244_need_review" />
         <item itemvalue="Application.Create_Maximum_Number_321_need_understand" />
         <item itemvalue="Application.Create_Maximum_Number_321_need_understand" />
         <item itemvalue="Application.d" />
-        <item itemvalue="Application.gravity" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +249,9 @@
       <workItem from="1610846117708" duration="4508000" />
       <workItem from="1610927078072" duration="830000" />
       <workItem from="1610951345745" duration="9751000" />
-      <workItem from="1611226742692" duration="3465000" />
+      <workItem from="1611226742692" duration="14740000" />
+      <workItem from="1611491524102" duration="13008000" />
+      <workItem from="1611838572765" duration="4895000" />
     </task>
     <servers />
   </component>
