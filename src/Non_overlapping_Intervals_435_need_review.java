@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Non_overlapping_Intervals_435_need_review {
     //greedy
-    //贪心策略：更新min的界限和max的界限，使max尽量小(这样就能最小化产生重合的可能)，同时根据数组对左侧的小数字进行排序，
+    //贪心策略：更新min的界限和max的界限，使max尽量小(这样就能最小化产生重合的可能)，同时根据数组对左侧的小数字进行升序排序，
     //删掉会使max更大的可能组合，因为max越大，越可能与后面的数组对重合
     //时间复杂度：O(nlogn),sort, n :  intervals.length
     //空间复杂度：O(1)

@@ -2,39 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c3b2f56-72d2-4f79-a69e-e8f7249b949f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/greedy/Non_overlapping_Intervals_435_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/Queue_Reconstruction_by_Height_406_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/Remove_Duplicate_Letters_316_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/Remove_K_Digits_402_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Candy_135_need_understand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Minimum_Number_of_Arrows_to_Burst_Balloons_452_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Monotone_Increasing_Digits_738_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Reorganize_String_767_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Split_Array_into_Consecutive_Subsequences_659_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/Task_Scheduler_621_need_review.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/roblox oa/Slowest_Key_Press.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slide window/Binary_Subarrays_With_Sum_930_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slide window/Subarray_Product_Less_Than_K_713_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backspace_String_Compare_844_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Binary_Subarrays_With_Sum_930_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interval_List_Intersections_986_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Long_Pressed_Name_925_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Longest_Mountain_in_Array_845_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Non_overlapping_Intervals_435_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Number_of_Provinces_547_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue_Reconstruction_by_Height_406_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_Duplicate_Letters_316_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_K_Digits_402_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Squares_of_a_Sorted_Array_977_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Subarray_Product_Less_Than_K_713_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Three_Sum_With_Multiplicity_923_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two pointers/Backspace_String_Compare_844_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two pointers/Binary_Subarrays_With_Sum_930_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two pointers/Interval_List_Intersections_986_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two pointers/Long_Pressed_Name_925_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two pointers/Longest_Mountain_in_Array_845_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two pointers/Squares_of_a_Sorted_Array_977_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two pointers/Subarray_Product_Less_Than_K_713_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two pointers/Three_Sum_With_Multiplicity_923_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/union find/Number_of_Provinces_547_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Candy_135_need_understand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Minimum_Number_of_Arrows_to_Burst_Balloons_452_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monotone_Increasing_Digits_738_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reorganize_String_767_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Split_Array_into_Consecutive_Subsequences_659_need_review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_Scheduler_621_need_review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/K_diff_Pairs_in_an_Array_532_need_review.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/K_diff_Pairs_in_an_Array_532_need_review.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy/Non_overlapping_Intervals_435_need_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/greedy/Non_overlapping_Intervals_435_need_review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roblox oa" beforeDir="false" afterPath="$PROJECT_DIR$/roblox oa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/刷题总结.docx" beforeDir="false" afterPath="$PROJECT_DIR$/刷题总结.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Non_overlapping_Intervals_435_need_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Non_overlapping_Intervals_435_need_review.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Backspace_String_Compare_844_need_review">
+  <component name="RunManager" selected="Application.Reorganize_String_767_need_review">
     <configuration name="Backspace_String_Compare_844_need_review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Backspace_String_Compare_844_need_review" />
       <module name="Leetcode" />
@@ -146,6 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reorganize_String_767_need_review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reorganize_String_767_need_review" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Shortest_Word_Distance_II_244_need_review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Shortest_Word_Distance_II_244_need_review" />
       <module name="Leetcode" />
@@ -160,29 +151,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gravity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gravity" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Path_Sum_112_not_all_way" />
       <item itemvalue="Application.Permutations_46_not_all_way" />
-      <item itemvalue="Application.gravity" />
       <item itemvalue="Application.d" />
       <item itemvalue="Application.Create_Maximum_Number_321_need_understand" />
       <item itemvalue="Application.Shortest_Word_Distance_II_244_need_review" />
       <item itemvalue="Application.Backspace_String_Compare_844_need_review" />
+      <item itemvalue="Application.Reorganize_String_767_need_review" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reorganize_String_767_need_review" />
         <item itemvalue="Application.Backspace_String_Compare_844_need_review" />
         <item itemvalue="Application.Shortest_Word_Distance_II_244_need_review" />
         <item itemvalue="Application.Create_Maximum_Number_321_need_understand" />
         <item itemvalue="Application.Create_Maximum_Number_321_need_understand" />
-        <item itemvalue="Application.d" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +235,9 @@
       <workItem from="1610951345745" duration="9751000" />
       <workItem from="1611226742692" duration="14740000" />
       <workItem from="1611491524102" duration="13008000" />
-      <workItem from="1611838572765" duration="4895000" />
+      <workItem from="1611838572765" duration="8290000" />
+      <workItem from="1612311184865" duration="645000" />
+      <workItem from="1612401022909" duration="5907000" />
     </task>
     <servers />
   </component>
@@ -1716,6 +1702,36 @@
           <url>file://$PROJECT_DIR$/String/Integer_to_Roman_12_not_all_way.java</url>
           <line>5</line>
           <option name="timeStamp" value="1254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reorganize_String_767_need_review.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reorganize_String_767_need_review.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reorganize_String_767_need_review.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reorganize_String_767_need_review.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reorganize_String_767_need_review.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="1259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reorganize_String_767_need_review.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1260" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Create_Maximum_Number_321_need_understand.java</url>
