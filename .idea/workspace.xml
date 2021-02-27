@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c3b2f56-72d2-4f79-a69e-e8f7249b949f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/abstract/Fizz_Buzz_412_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finix oa/String_Fe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intuit oa/shipping_center.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/roblox oa/Slowest_Key_Press.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fizz_Buzz_412_need_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Fe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Justifiy_Text.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bfs/The_Maze_490_need_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/bfs/The_Maze_490_need_review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Reorganize_String_767_need_review$pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Reorganize_String_767_need_review$pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Reorganize_String_767_need_review.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Reorganize_String_767_need_review.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roblox oa" beforeDir="false" afterPath="$PROJECT_DIR$/roblox oa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/The_Maze_490_need_review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/The_Maze_490_need_review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/刷题总结.docx" beforeDir="false" afterPath="$PROJECT_DIR$/刷题总结.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,9 +82,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.String_Fe">
-    <configuration name="Backspace_String_Compare_844_need_review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backspace_String_Compare_844_need_review" />
+  <component name="RunManager" selected="Application.Justifiy_Text">
+    <configuration name="Justifiy_Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Justifiy_Text" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,13 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reorganize_String_767_need_review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reorganize_String_767_need_review" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="String_Fe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_Fe" />
       <module name="Leetcode" />
@@ -139,22 +125,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="shipping_center" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shipping_center" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Path_Sum_112_not_all_way" />
       <item itemvalue="Application.Permutations_46_not_all_way" />
-      <item itemvalue="Application.Backspace_String_Compare_844_need_review" />
-      <item itemvalue="Application.Reorganize_String_767_need_review" />
       <item itemvalue="Application.Oscillating_String" />
       <item itemvalue="Application.aaa" />
       <item itemvalue="Application.String_Fe" />
+      <item itemvalue="Application.shipping_center" />
+      <item itemvalue="Application.Justifiy_Text" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Justifiy_Text" />
+        <item itemvalue="Application.shipping_center" />
         <item itemvalue="Application.String_Fe" />
         <item itemvalue="Application.aaa" />
         <item itemvalue="Application.Oscillating_String" />
-        <item itemvalue="Application.Reorganize_String_767_need_review" />
-        <item itemvalue="Application.Backspace_String_Compare_844_need_review" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +221,8 @@
       <workItem from="1612401022909" duration="11376000" />
       <workItem from="1613476907979" duration="1997000" />
       <workItem from="1614380968143" duration="1376000" />
-      <workItem from="1614383463278" duration="1086000" />
+      <workItem from="1614383463278" duration="1326000" />
+      <workItem from="1614387166764" duration="9976000" />
     </task>
     <servers />
   </component>
