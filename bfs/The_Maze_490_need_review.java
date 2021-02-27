@@ -3,7 +3,7 @@ import java.util.Queue;
 
 public class The_Maze_490_need_review {
     //bfs
-    //思想是leetcode题解的第二个方法，记录一路走到底的那个space并记录已经访问并加进队列，然后在出队列的时候与目的地进行比对是都能到达目的地
+    //思想是leetcode题解的第二个方法，记录一路走到底的那个space并记录已经访问并加进队列，然后在出队列的时候与目的地进行比对
     public boolean hasPath(int[][] maze, int[] start, int[] destination) {
         while(maze.length == 0){
             return true;
